@@ -1,5 +1,3 @@
-# Useful links (ASP.NET)
-
 ## ASP.NET Core
 - [Testing controllers](https://github.com/aspnet/Docs/tree/master/aspnetcore/mvc/controllers/testing/sample/TestingControllersSample)
 - [Testing Middleware](https://github.com/Perkovsky/xUnit-integration-test-Middleware/tree/master/xunit-integration/test/CustomMiddleware.Tests)
