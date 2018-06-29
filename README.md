@@ -12,4 +12,4 @@
 ## NoSQL
 - [A tutorial repository for Elasticsearch and NEST](https://github.com/elastic/elasticsearch-net-example/tree/6.x-netcore)
 - [Redis InMemory Cache in ASP.net MVC Core (source)](https://github.com/garywoodfine/redis-mvc-core)
--- [Redis InMemory Cache in ASP.net MVC Core](https://garywoodfine.com/redis-inmemory-cache-asp-net-mvc-core/)
+--- [Статья](https://garywoodfine.com/redis-inmemory-cache-asp-net-mvc-core/)
