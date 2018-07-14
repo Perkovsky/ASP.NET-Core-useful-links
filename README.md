@@ -9,6 +9,7 @@
 - [Демонстрационный проект Xamain.Native + MvvmCross для выступления на конференции Mobius 2016](https://github.com/pocheshire/MobiusDemo)
 - [Xamarin.Form MVVM DI example](https://github.com/extremecodetv/xamarin-mvvm-di-example)
 - [Sample App with Xamarin.Forms and MvvmCross](https://github.com/martijn00/MvxForms)
+- [Cross platform wallet example using Nethereum, Xamarin.Forms and MvvmCross](https://github.com/Nethereum/Nethereum.UI.Wallet.Sample)
 
 ## NoSQL
 - [A tutorial repository for Elasticsearch and NEST](https://github.com/elastic/elasticsearch-net-example/tree/6.x-netcore)
