@@ -4,6 +4,8 @@
 - [JWT authentication](https://github.com/aspnet/Security/tree/dev/src/Microsoft.AspNetCore.Authentication.JwtBearer)
 - [Logging with ElasticSearch, Kibana, Serilog and Docker](https://github.com/thecarlo/elastic-kibana-netcore-serilog)
 - [Redis with ASP.net MVC Core](https://github.com/garywoodfine/redis-mvc-core)
+- [Redis InMemory Cache in ASP.net MVC Core (source)](https://github.com/garywoodfine/redis-mvc-core)
+--- [Статья](https://garywoodfine.com/redis-inmemory-cache-asp-net-mvc-core/)
 
 ## Xamarin
 - [Демонстрационный проект Xamain.Native + MvvmCross для выступления на конференции Mobius 2016](https://github.com/pocheshire/MobiusDemo)
@@ -13,5 +15,3 @@
 
 ## NoSQL
 - [A tutorial repository for Elasticsearch and NEST](https://github.com/elastic/elasticsearch-net-example/tree/6.x-netcore)
-- [Redis InMemory Cache in ASP.net MVC Core (source)](https://github.com/garywoodfine/redis-mvc-core)
---- [Статья](https://garywoodfine.com/redis-inmemory-cache-asp-net-mvc-core/)
