@@ -12,5 +12,8 @@
 - [Sample App with Xamarin.Forms and MvvmCross](https://github.com/martijn00/MvxForms)
 - [Cross platform wallet example using Nethereum, Xamarin.Forms and MvvmCross](https://github.com/Nethereum/Nethereum.UI.Wallet.Sample)
 
+## Vue.js
+- [Jackblog: vuex, vue-resource, vue-router, vee-validate, vue-toast](https://github.com/jackhutu/jackblog-vue)
+
 ## NoSQL
 - [A tutorial repository for Elasticsearch and NEST](https://github.com/elastic/elasticsearch-net-example/tree/6.x-netcore)
