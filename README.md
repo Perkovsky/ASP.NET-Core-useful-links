@@ -1,3 +1,5 @@
+- [A Simple MassTransit Publish/Subscribe Example](https://github.com/RolandGuijt/masstransitdemos)
+  * [Статья](http://looselycoupledlabs.com/2014/06/masstransit-publish-subscribe-example/)
 ## ASP.NET Core
 - [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core)
 - [Testing controllers](https://github.com/aspnet/Docs/tree/master/aspnetcore/mvc/controllers/testing/sample/TestingControllersSample)
@@ -5,7 +7,7 @@
 - [JWT authentication](https://github.com/aspnet/Security/tree/dev/src/Microsoft.AspNetCore.Authentication.JwtBearer)
 - [Logging with ElasticSearch, Kibana, Serilog and Docker](https://github.com/thecarlo/elastic-kibana-netcore-serilog)
 - [Redis with ASP.net MVC Core](https://github.com/garywoodfine/redis-mvc-core)
---------> [Статья](https://garywoodfine.com/redis-inmemory-cache-asp-net-mvc-core/)
+  * [Статья](https://garywoodfine.com/redis-inmemory-cache-asp-net-mvc-core/)
 
 ## Xamarin
 - [Демонстрационный проект Xamain.Native + MvvmCross для выступления на конференции Mobius 2016](https://github.com/pocheshire/MobiusDemo)
